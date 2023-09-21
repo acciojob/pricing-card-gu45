@@ -1,1 +1,38 @@
 /*  your css code here. If applicable */
+.card{
+            width: 450px;
+            height: 700px;
+            background-color: white;
+            margin: auto;
+            /* width: 50%; */
+            box-shadow: 5px 5px 5px 5px rgb(63, 61, 61);
+        }
+        .card img{
+            width: 350px;
+            height: 200px;
+            padding-top: 50px;
+            padding-left: 50px;
+            padding-bottom: 0;
+        }
+        .titele{
+            margin-left: 50px;
+            width: 200px;
+            font-size: 25px;
+        }
+        h1{
+            font-weight: 70px;
+            font-size: 50px;
+            margin-left: 50px;
+        }
+        .rs{
+            margin-left: 50px;
+            font-size: 25px;
+        }
+        button{
+            background-color: orangered;
+            color: white;
+            margin-left: 50%;
+            padding: 15px 15px;
+            text-align: center;
+            font-size: 16px;
+        }
